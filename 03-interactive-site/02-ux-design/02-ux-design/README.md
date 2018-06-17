@@ -33,7 +33,7 @@ O processo criativo e analítico para determinar qual e como será uma página w
 
 Para entender um pouco mais sobre o processo de UX Design veja este vídeo:
 
-[![User Experience](https://lh5.googleusercontent.com/OHW33sLkmWQv1eljJlycGHozE-ozx6WXVE-rnYKOmke4hqXzXyKhD67dGEDw_ILwsyFMiYT29n4ECRatw5Gfd4tnjs8Q3HZh5nT8qZOiffp7HuLZSDA_IMzD5MoGqvI_2f71IfGOgG4)](https://www.youtube.com/watch?v=SBIvPTSy1QM)
+[![User Experience](https://lh5.googleusercontent.com/OHW33sLkmWQv1eljJlycGHozE-ozx6WXVE-rnYKOmke4hqXzXyKhD67dGEDw_ILwsyFMiYT29n4ECRatw5Gfd4tnjs8Q3HZh5nT8qZOiffp7HuLZSDA_IMzD5MoGqvI_2f71IfGOgG4)](https://www.youtube.com/watch?v=wmmVhVIxW-A)
 
 ## Por que estamos aprendendo UX?
 
